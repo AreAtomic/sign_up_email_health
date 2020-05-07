@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10296410.chunk.css",
+    "main.js": "/static/js/main.fa452412.chunk.js",
+    "main.js.map": "/static/js/main.fa452412.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b8ceca5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b8ceca5.js.map",
+    "static/js/2.8d9e63ae.chunk.js": "/static/js/2.8d9e63ae.chunk.js",
+    "static/js/2.8d9e63ae.chunk.js.map": "/static/js/2.8d9e63ae.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7e44f246f14196c4ca64ad5b2eaf0e63.js": "/precache-manifest.7e44f246f14196c4ca64ad5b2eaf0e63.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.10296410.chunk.css.map": "/static/css/main.10296410.chunk.css.map",
+    "static/js/2.8d9e63ae.chunk.js.LICENSE.txt": "/static/js/2.8d9e63ae.chunk.js.LICENSE.txt",
+    "static/media/undraw_medicine_b1ol.svg": "/static/media/undraw_medicine_b1ol.40c8f969.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b8ceca5.js",
+    "static/js/2.8d9e63ae.chunk.js",
+    "static/css/main.10296410.chunk.css",
+    "static/js/main.fa452412.chunk.js"
+  ]
+}
